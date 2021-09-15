@@ -1,4 +1,4 @@
-<h1><img src="arch.png" alt="Holy Grail App Project" width="20%"></h1>
+<h1><img src="arch.png" alt="Holy Grail App Project" width="50%"></h1>
 
 
 # Holy Grail App Project
